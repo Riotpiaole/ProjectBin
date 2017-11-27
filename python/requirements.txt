@@ -1,3 +1,6 @@
 opencv-python 
-scikit-learn
 scipy 
+cvxopt
+argh
+numpy
+matplotlib
